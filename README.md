@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hi everyone!
+Just trying to commit few changes to a branch....
